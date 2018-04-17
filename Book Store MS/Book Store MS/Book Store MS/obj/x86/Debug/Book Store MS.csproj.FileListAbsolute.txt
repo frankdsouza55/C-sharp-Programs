@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\C-sharp-Programs\Book Store MS\Book Store MS\Book Store MS\bin\Debug\Book Store MS.exe
+C:\Users\user\Documents\GitHub\C-sharp-Programs\Book Store MS\Book Store MS\Book Store MS\bin\Debug\Book Store MS.pdb
+C:\Users\user\Documents\GitHub\C-sharp-Programs\Book Store MS\Book Store MS\Book Store MS\obj\x86\Debug\Book_Store_MS.Form1.resources
+C:\Users\user\Documents\GitHub\C-sharp-Programs\Book Store MS\Book Store MS\Book Store MS\obj\x86\Debug\Book_Store_MS.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\C-sharp-Programs\Book Store MS\Book Store MS\Book Store MS\obj\x86\Debug\Book Store MS.csproj.GenerateResource.Cache
+C:\Users\user\Documents\GitHub\C-sharp-Programs\Book Store MS\Book Store MS\Book Store MS\obj\x86\Debug\Book Store MS.exe
+C:\Users\user\Documents\GitHub\C-sharp-Programs\Book Store MS\Book Store MS\Book Store MS\obj\x86\Debug\Book Store MS.pdb
