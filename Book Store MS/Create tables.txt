@@ -1,0 +1,41 @@
+create table EMPLOYEE1
+(eid number(5) primary key,
+ename varchar2(30),
+join_date date,
+password varchar2(100));
+
+create table CUSTOMER1
+(cid number(5) primary key,
+cname varchar2(30),
+phone number(10),
+city varchar2(15),
+password varchar2(100));
+
+create table BOOKS
+(bkid number(5) primary key,
+isbn number(13),
+title varchar2(30),
+author varchar2(15),
+published_date date,
+quantity number(4),
+rate number(5),
+type varchar2(5));
+
+create table BORROW
+(cid number(5) references CUSTOMER1(cid),
+bkid number(5) references BOOKS(bkid),
+issue_date date,
+due_date date,
+return_date date);
+
+create table PURCHASE
+(bid number(5) primary key,
+purchase_date date,
+name varchar2(30),
+book_title varchar2(30),
+quantity number(2),
+rate number(4),
+total number(6));
+
+
+INSERT INTO EMPLOYEE1 values(0,'John DSouza',TO_DATE('01/04/2018', 'DD/MM/YYYY'),'07163737');
